@@ -1,0 +1,12 @@
+{
+  "name": "react-responsive-contact-form",
+  "version": "1.0.0",
+  "description": "A contact form example\n\nHas validation included, extensible via props to determine what fields are required, and is fully responsive.\n\nSuccess screen also included at bottom.",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "lodash.debounce": "4.0.8",
+    "react": "16.0.0",
+    "react-dom": "16.0.0"
+  }
+}
